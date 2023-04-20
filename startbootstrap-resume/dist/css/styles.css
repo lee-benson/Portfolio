@@ -12782,6 +12782,13 @@ section.resume-section .resume-section-content {
   border: 2px solid black;
 }
 
+@media (max-width: 725px) {
+  .projectImages {
+    width: 425px;
+    height: 225px;
+  }
+}
+
 .built-with-btn {
   padding: 1.3em 3em;
   font-size: 12px;
